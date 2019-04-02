@@ -69,8 +69,8 @@ main{
 	}
 
     .step-box{
-    	width: 300px;
-    	margin-bottom: 29px;
+    	margin-bottom: 20px;
+    	float: none;
     }
 
     .step-box:last-child{
